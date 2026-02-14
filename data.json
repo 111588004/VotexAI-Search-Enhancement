@@ -1,0 +1,638 @@
+[
+  {
+    "file_id": "rec_000.mp3",
+    "file_name": "Technical Architecture - Recording 0",
+    "date": "2025-11-06",
+    "segments": [
+      {
+        "timestamp": "00:13:11",
+        "text": "量子糾纏 (Quantum Entanglement) 是一種非常奇特的物理現象。 (Note: Ref ID 138)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_001.mp3",
+    "file_name": "Daily Standup - Recording 1",
+    "date": "2025-11-07",
+    "segments": [
+      {
+        "timestamp": "00:26:29",
+        "text": "Deploy 到 production 之前，一定要跑過所有的 unit test 和 integration test。 (Note: Ref ID 182)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_002.mp3",
+    "file_name": "Daily Standup - Recording 2",
+    "date": "2025-11-08",
+    "segments": [
+      {
+        "timestamp": "00:25:10",
+        "text": "AI Agent 的 application 在未來兩年會是大趨勢，這款產品要跟上。 (Note: Ref ID 870)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_003.mp3",
+    "file_name": "Daily Standup - Recording 3",
+    "date": "2025-11-09",
+    "segments": [
+      {
+        "timestamp": "00:57:47",
+        "text": "關於 RAG (Retrieval-Augmented Generation) 的實作，向量資料庫的選擇很關鍵。 (Note: Ref ID 138)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_004.mp3",
+    "file_name": "Business Strategy - Recording 4",
+    "date": "2025-11-10",
+    "segments": [
+      {
+        "timestamp": "00:47:38",
+        "text": "這篇 Paper 的 methodology 有點問題，sample size 太小了。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_005.mp3",
+    "file_name": "Project Planning - Recording 5",
+    "date": "2025-11-11",
+    "segments": [
+      {
+        "timestamp": "00:44:18",
+        "text": "討論一下 Auth 的機制，是用 JWT 還是 Session cookie？",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_006.mp3",
+    "file_name": "Business Strategy - Recording 6",
+    "date": "2025-11-12",
+    "segments": [
+      {
+        "timestamp": "00:33:54",
+        "text": "早上的 coffee machine 好像壞了，有人報修了嗎？ (Note: Ref ID 346)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_007.mp3",
+    "file_name": "Daily Standup - Recording 7",
+    "date": "2025-11-13",
+    "segments": [
+      {
+        "timestamp": "00:25:26",
+        "text": "我們需要 fine-tune 一個本地端的 Llama 3 模型來處理這類型的 request。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_008.mp3",
+    "file_name": "Project Planning - Recording 8",
+    "date": "2025-11-14",
+    "segments": [
+      {
+        "timestamp": "00:46:30",
+        "text": "關於 RAG (Retrieval-Augmented Generation) 的實作，向量資料庫的選擇很關鍵。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_009.mp3",
+    "file_name": "Project Planning - Recording 9",
+    "date": "2025-11-15",
+    "segments": [
+      {
+        "timestamp": "00:30:25",
+        "text": "我們需要 fine-tune 一個本地端的 Llama 3 模型來處理這類型的 request。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_010.mp3",
+    "file_name": "Technical Architecture - Recording 10",
+    "date": "2025-11-16",
+    "segments": [
+      {
+        "timestamp": "00:24:35",
+        "text": "今天的 meeting 就到這裡，大家有沒有什麼 question？ (Note: Ref ID 215)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_011.mp3",
+    "file_name": "Client Meeting - Recording 11",
+    "date": "2025-11-17",
+    "segments": [
+      {
+        "timestamp": "00:35:20",
+        "text": "Frontend 的 framework 我們打算用 React 還是 Vue？考慮到 scalability。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_012.mp3",
+    "file_name": "Business Strategy - Recording 12",
+    "date": "2025-11-18",
+    "segments": [
+      {
+        "timestamp": "00:54:54",
+        "text": "我們要導入 CI/CD pipeline 來加速 deployment process。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_013.mp3",
+    "file_name": "Client Meeting - Recording 13",
+    "date": "2025-11-19",
+    "segments": [
+      {
+        "timestamp": "00:11:10",
+        "text": "Server 的 latency 最近有點高，我懷疑是 database query 沒有 optimize。 (Note: Ref ID 140)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_014.mp3",
+    "file_name": "Daily Standup - Recording 14",
+    "date": "2025-11-20",
+    "segments": [
+      {
+        "timestamp": "00:28:17",
+        "text": "Frontend 的 framework 我們打算用 React 還是 Vue？考慮到 scalability。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_015.mp3",
+    "file_name": "Daily Standup - Recording 15",
+    "date": "2025-11-21",
+    "segments": [
+      {
+        "timestamp": "00:59:10",
+        "text": "幫我 book 一個 conference room，或者是發 google meet link 給客戶。 (Note: Ref ID 795)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_016.mp3",
+    "file_name": "Technical Architecture - Recording 16",
+    "date": "2025-11-22",
+    "segments": [
+      {
+        "timestamp": "00:37:13",
+        "text": "競爭對手的 pricing strategy 很 aggressive，我們需要一個 counter-plan。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_017.mp3",
+    "file_name": "Lecture - Quantum Physics - Recording 17",
+    "date": "2025-11-23",
+    "segments": [
+      {
+        "timestamp": "00:33:17",
+        "text": "在統計學中，Correlation 不代表 Causation，這點非常重要。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_018.mp3",
+    "file_name": "Client Meeting - Recording 18",
+    "date": "2025-11-24",
+    "segments": [
+      {
+        "timestamp": "00:48:33",
+        "text": "幫我 book 一個 conference room，或者是發 google meet link 給客戶。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_019.mp3",
+    "file_name": "Business Strategy - Recording 19",
+    "date": "2025-11-25",
+    "segments": [
+      {
+        "timestamp": "00:48:39",
+        "text": "Microservices 的 architecture 雖然靈活，但是 observability 會是一個 challenge。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_020.mp3",
+    "file_name": "Marketing Brainstorming - Recording 20",
+    "date": "2025-11-26",
+    "segments": [
+      {
+        "timestamp": "00:50:37",
+        "text": "我們要導入 CI/CD pipeline 來加速 deployment process。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_021.mp3",
+    "file_name": "Business Strategy - Recording 21",
+    "date": "2025-11-27",
+    "segments": [
+      {
+        "timestamp": "00:22:10",
+        "text": "AI Agent 的 application 在未來兩年會是大趨勢，這款產品要跟上。 (Note: Ref ID 757)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_022.mp3",
+    "file_name": "Daily Standup - Recording 22",
+    "date": "2025-11-28",
+    "segments": [
+      {
+        "timestamp": "00:24:58",
+        "text": "下個 quarter 的 OKR 設定好了嗎？Key results 需要更 quantifiable 一些。 (Note: Ref ID 441)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_023.mp3",
+    "file_name": "Lecture - Quantum Physics - Recording 23",
+    "date": "2025-11-29",
+    "segments": [
+      {
+        "timestamp": "00:54:29",
+        "text": "討論一下 Auth 的機制，是用 JWT 還是 Session cookie？",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_024.mp3",
+    "file_name": "Daily Standup - Recording 24",
+    "date": "2025-11-30",
+    "segments": [
+      {
+        "timestamp": "00:50:21",
+        "text": "在統計學中，Correlation 不代表 Causation，這點非常重要。 (Note: Ref ID 586)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_025.mp3",
+    "file_name": "Client Meeting - Recording 25",
+    "date": "2025-12-01",
+    "segments": [
+      {
+        "timestamp": "00:10:43",
+        "text": "Server 的 latency 最近有點高，我懷疑是 database query 沒有 optimize。 (Note: Ref ID 890)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_026.mp3",
+    "file_name": "Project Planning - Recording 26",
+    "date": "2025-12-02",
+    "segments": [
+      {
+        "timestamp": "00:57:27",
+        "text": "關於 RAG (Retrieval-Augmented Generation) 的實作，向量資料庫的選擇很關鍵。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_027.mp3",
+    "file_name": "Business Strategy - Recording 27",
+    "date": "2025-12-03",
+    "segments": [
+      {
+        "timestamp": "00:51:19",
+        "text": "這個 API 的 response time 太慢了，能不能加一層 cache？",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_028.mp3",
+    "file_name": "Lecture - Quantum Physics - Recording 28",
+    "date": "2025-12-04",
+    "segments": [
+      {
+        "timestamp": "00:16:18",
+        "text": "下個 quarter 的 OKR 設定好了嗎？Key results 需要更 quantifiable 一些。 (Note: Ref ID 104)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_029.mp3",
+    "file_name": "Business Strategy - Recording 29",
+    "date": "2025-12-05",
+    "segments": [
+      {
+        "timestamp": "00:31:26",
+        "text": "我們需要 fine-tune 一個本地端的 Llama 3 模型來處理這類型的 request。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_030.mp3",
+    "file_name": "Lecture - Quantum Physics - Recording 30",
+    "date": "2025-12-06",
+    "segments": [
+      {
+        "timestamp": "00:52:24",
+        "text": "幫我 book 一個 conference room，或者是發 google meet link 給客戶。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_031.mp3",
+    "file_name": "Client Meeting - Recording 31",
+    "date": "2025-12-07",
+    "segments": [
+      {
+        "timestamp": "00:51:12",
+        "text": "關於 RAG (Retrieval-Augmented Generation) 的實作，向量資料庫的選擇很關鍵。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_032.mp3",
+    "file_name": "Technical Architecture - Recording 32",
+    "date": "2025-12-08",
+    "segments": [
+      {
+        "timestamp": "00:53:52",
+        "text": "關於 RAG (Retrieval-Augmented Generation) 的實作，向量資料庫的選擇很關鍵。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_033.mp3",
+    "file_name": "Lecture - Quantum Physics - Recording 33",
+    "date": "2025-12-09",
+    "segments": [
+      {
+        "timestamp": "00:42:13",
+        "text": "Deploy 到 production 之前，一定要跑過所有的 unit test 和 integration test。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_034.mp3",
+    "file_name": "Marketing Brainstorming - Recording 34",
+    "date": "2025-12-10",
+    "segments": [
+      {
+        "timestamp": "00:53:54",
+        "text": "討論一下 Auth 的機制，是用 JWT 還是 Session cookie？ (Note: Ref ID 488)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_035.mp3",
+    "file_name": "Client Meeting - Recording 35",
+    "date": "2025-12-11",
+    "segments": [
+      {
+        "timestamp": "00:37:48",
+        "text": "下個 quarter 的 OKR 設定好了嗎？Key results 需要更 quantifiable 一些。 (Note: Ref ID 257)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_036.mp3",
+    "file_name": "Daily Standup - Recording 36",
+    "date": "2025-12-12",
+    "segments": [
+      {
+        "timestamp": "00:14:43",
+        "text": "這個 API 的 response time 太慢了，能不能加一層 cache？ (Note: Ref ID 509)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_037.mp3",
+    "file_name": "Lecture - Quantum Physics - Recording 37",
+    "date": "2025-12-13",
+    "segments": [
+      {
+        "timestamp": "00:41:47",
+        "text": "記得把這週的 weekly report 寄給我，我要統整一下。 (Note: Ref ID 608)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_038.mp3",
+    "file_name": "Lecture - Quantum Physics - Recording 38",
+    "date": "2025-12-14",
+    "segments": [
+      {
+        "timestamp": "00:36:45",
+        "text": "競爭對手的 pricing strategy 很 aggressive，我們需要一個 counter-plan。 (Note: Ref ID 703)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_039.mp3",
+    "file_name": "Technical Architecture - Recording 39",
+    "date": "2025-12-15",
+    "segments": [
+      {
+        "timestamp": "00:51:36",
+        "text": "我們需要 fine-tune 一個本地端的 Llama 3 模型來處理這類型的 request。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_040.mp3",
+    "file_name": "Project Planning - Recording 40",
+    "date": "2025-12-16",
+    "segments": [
+      {
+        "timestamp": "00:59:58",
+        "text": "AI Agent 的 application 在未來兩年會是大趨勢，這款產品要跟上。 (Note: Ref ID 444)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_041.mp3",
+    "file_name": "Marketing Brainstorming - Recording 41",
+    "date": "2025-12-17",
+    "segments": [
+      {
+        "timestamp": "00:54:42",
+        "text": "Target audience 的 define 還不夠 clear，這會影響我們的 ad performance。 (Note: Ref ID 921)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_042.mp3",
+    "file_name": "Technical Architecture - Recording 42",
+    "date": "2025-12-18",
+    "segments": [
+      {
+        "timestamp": "00:51:27",
+        "text": "討論一下 Auth 的機制，是用 JWT 還是 Session cookie？",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_043.mp3",
+    "file_name": "Technical Architecture - Recording 43",
+    "date": "2025-12-19",
+    "segments": [
+      {
+        "timestamp": "00:34:50",
+        "text": "下個 quarter 的 OKR 設定好了嗎？Key results 需要更 quantifiable 一些。 (Note: Ref ID 667)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_044.mp3",
+    "file_name": "Client Meeting - Recording 44",
+    "date": "2025-12-20",
+    "segments": [
+      {
+        "timestamp": "00:29:45",
+        "text": "Prompt engineering 是一個很重要的 skill，特別是在處理複雜 context 的時候。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_045.mp3",
+    "file_name": "Business Strategy - Recording 45",
+    "date": "2025-12-21",
+    "segments": [
+      {
+        "timestamp": "00:15:12",
+        "text": "量子糾纏 (Quantum Entanglement) 是一種非常奇特的物理現象。 (Note: Ref ID 520)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_046.mp3",
+    "file_name": "Lecture - Quantum Physics - Recording 46",
+    "date": "2025-12-22",
+    "segments": [
+      {
+        "timestamp": "00:11:48",
+        "text": "Microservices 的 architecture 雖然靈活，但是 observability 會是一個 challenge。 (Note: Ref ID 529)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_047.mp3",
+    "file_name": "Lecture - Quantum Physics - Recording 47",
+    "date": "2025-12-23",
+    "segments": [
+      {
+        "timestamp": "00:35:19",
+        "text": "我們要導入 CI/CD pipeline 來加速 deployment process。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_048.mp3",
+    "file_name": "Daily Standup - Recording 48",
+    "date": "2025-12-24",
+    "segments": [
+      {
+        "timestamp": "00:57:28",
+        "text": "Frontend 的 framework 我們打算用 React 還是 Vue？考慮到 scalability。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_049.mp3",
+    "file_name": "Technical Architecture - Recording 49",
+    "date": "2025-12-25",
+    "segments": [
+      {
+        "timestamp": "00:12:13",
+        "text": "這篇 Paper 的 methodology 有點問題，sample size 太小了。 (Note: Ref ID 429)",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_manual_000.mp3",
+    "file_name": "Q3-Budget-Meeting.mp3",
+    "date": "2023-09-15",
+    "segments": [
+      {
+        "timestamp": "00:05:30",
+        "text": "我們來談談 Q3 的行銷預算 (Marketing Budget)，目前預計投入 300 萬。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_manual_001.mp3",
+    "file_name": "Physics-Lecture-101.mp3",
+    "date": "2023-11-20",
+    "segments": [
+      {
+        "timestamp": "00:05:30",
+        "text": "量子糾纏描述了兩個粒子之間無論距離多遠，都能瞬間影響彼此的狀態。",
+        "language": "mixed"
+      }
+    ]
+  },
+  {
+    "file_id": "rec_manual_002.mp3",
+    "file_name": "HR-Policy-Update.mp3",
+    "date": "2024-01-10",
+    "segments": [
+      {
+        "timestamp": "00:05:30",
+        "text": "關於 Remote Work Policy (遠端工作政策)，公司決定每週可以 WFH 兩天。",
+        "language": "mixed"
+      }
+    ]
+  }
+]
